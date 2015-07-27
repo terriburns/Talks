@@ -21,7 +21,7 @@ What do I mean making more inclusive technologies?
 
 ---
 
-![left](image1.jpg)
+![left](http://cdn.shopify.com/s/files/1/0237/1363/products/front_6b56605d-bf49-4238-a033-25671d0d6329.jpg?v=1402914705)
 
 #Why?
 
@@ -35,4 +35,7 @@ There's value in making other people feel good.
 
 ---
 
+Some examples!
+
+---
 
