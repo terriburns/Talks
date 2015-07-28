@@ -17,7 +17,7 @@
 
 ---
 
-What do I mean making more inclusive technologies?
+What do I mean building more inclusive technologies?
 
 ^Q for the audience
 
@@ -41,6 +41,8 @@ There's value in making other people feel good.
 
 ^As proven by 'scientific studies'
 
+^also relates to building a stronger team
+
 ---
 
 #Some examples!
@@ -63,7 +65,7 @@ There's value in making other people feel good.
 
 ![fit](imgs/apple watch.png)
 
-^tattoos and dark skin interfere with pulse readings
+^tattoos and dark skin on apple watch interfere with pulse readings
 
 ---
 
@@ -73,6 +75,8 @@ There's value in making other people feel good.
 
 ![fit](imgs/doctor.png)
 
+^computer system assumed all doctors were male
+
 ---
 
 #Facebook
@@ -81,15 +85,21 @@ There's value in making other people feel good.
 
 ![fit](imgs/fb.png)
 
+^facebook's virtual assistance have 'traditionally female' names
+
 ---
 
 My point: things like this happen all the time. You live and you learn, but you can also be proactive. 
+
+^as venmo's user base grows, we need to be on top of these things
 
 ---
 
 #Things to consider
 
 ^going to speak generally now, and then relate to Venmo later
+
+^applicable to all roles at venmo
 
 ---
 
@@ -175,9 +185,13 @@ WCAG has three conformance levels (A-AA-AAA) because the success criteria are or
 
 #People without bank accounts
 
+^thinking back to a global scale, this might be worth considering at some point
+
 ---
 
 #People without smartphones
+
+^venmo's had sms capabilities, how can we continue to evolve and support user without smartphones in the future`
 
 ---
 
