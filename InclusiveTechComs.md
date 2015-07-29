@@ -55,7 +55,8 @@ All of this relates back to building a stronger team and ultimately stronger pro
 
 ![](https://www.youtube.com/watch?t=7&v=t4DT3tQqgRM)
 
-^Statement from HP: "We are working with our partners to learn more. The technology we use is built on standard algorithms that measure the difference in intensity of contrast between the eyes and the upper cheek and nose. We believe that the camera might have difficulty "seeing" contrast in conditions where there is insufficient foreground lighting."
+^(Here's a link to the video, which works in Deckset but is not embedding properly on this page: https://www.youtube.com/watch?v=t4DT3tQqgRM)
+Statement from HP: "We are working with our partners to learn more. The technology we use is built on standard algorithms that measure the difference in intensity of contrast between the eyes and the upper cheek and nose. We believe that the camera might have difficulty "seeing" contrast in conditions where there is insufficient foreground lighting."
 
 ---
 
@@ -76,7 +77,7 @@ http://bossip.com/1137485/race-matters-new-apple-watch-malfunctions-on-people-wi
 
 ![fit](imgs/doctor.png)
 
-^computer system assumed all doctors were male 
+^computer system assumed all doctors were male.
 www.cambridge-news.co.uk/Cambridge-paediatrician-8217-s-outrage-Pure-Gym/story-26188693-detail/story.html
 
 ---
