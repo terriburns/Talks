@@ -89,7 +89,7 @@ www.cambridge-news.co.uk/Cambridge-paediatrician-8217-s-outrage-Pure-Gym/story-2
 ![fit](imgs/fb.png)
 
 ^Facebook's virtual assistants having 'traditionally female' names
-qz.com/452804/ugh-another-virtual-assistant-with-a-female-name/
+http://qz.com/452804/ugh-another-virtual-assistant-with-a-female-name/
 
 ---
 
