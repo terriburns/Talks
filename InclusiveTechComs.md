@@ -1,19 +1,18 @@
 #Building Inclusive Technologies
 
-^This is important to me because 
-^I’ve seen how discouraging exclusive technologies can be for users
-^As a dev evangelist, I work to bridge gaps between tech + non-tech communities and this talk applies to everyone 
-^IT’S HARD: I realize how time consuming, exhausting, overwhelming, and to be honest nearly impossible it is to make every single person feel included all the time
-^So hopefully by the end of this talk I can provide a some words of encouragement and tips on how to do this better
+^This is important to me because I’ve seen how discouraging exclusive technologies can be for users
+As a developer evangelist, I work to bridge gaps between tech + non-tech communities. That said, this talk applies to everyone regardless of role. 
+Also... IT’S HARD: I realize how time consuming and overwhelming inclusivity can be.
+My hope is that by the end of this talk I can provide a some words of encouragement and tips on how to do this better
 
 ---
 
 ![fit](http://www.thelostogle.com/wp-content/uploads/2012/10/diversity-500x466.jpg)
 
 ^Having diverse teams is important and highly related to this topic. 
-^I could talk about that for forever (and message me if you’d like to!) but I’m going to focus more on diverse consumers rather than producers
-^I’m going to give some examples (some real, some hypothetical) of barriers that get built into technologies that isolate certain groups and talk about how we can be more inclusive
-^And of course relate this all to Venmo
+I could talk about that for forever (and message me if you’d like to!) but I’m going to focus more on diverse consumers rather than producers.
+I’ll give examples (some real, some hypothetical) of barriers that get built into technologies that isolate certain groups and talk about how we can use these as lessons to be more inclusive.
+(And of course relate this all to Venmo.)
 
 ---
 
@@ -39,13 +38,14 @@ The fact is, you want as many people using your product as possible.
 
 There's value in making other people feel good.
 
-^As proven by 'scientific studies'
-
-^also relates to building a stronger team
+^Dopamine! Feelings of accomplishment! Happiness!
+All of this relates back to building a stronger team and ultimately stronger product. 
 
 ---
 
 #Some examples!
+
+^Here are some examples of relatively recent product rollouts that are pretty exclusive to certain groups. This list is by no means exhaustive. 
 
 ---
 
@@ -65,7 +65,8 @@ There's value in making other people feel good.
 
 ![fit](imgs/apple watch.png)
 
-^tattoos and dark skin on apple watch interfere with pulse readings
+^The apple watch pulse readings are defective for people with tattoos and/or dark skin.
+http://bossip.com/1137485/race-matters-new-apple-watch-malfunctions-on-people-with-dark-skin-but-heres-why/
 
 ---
 
@@ -75,7 +76,8 @@ There's value in making other people feel good.
 
 ![fit](imgs/doctor.png)
 
-^computer system assumed all doctors were male
+^computer system assumed all doctors were male 
+www.cambridge-news.co.uk/Cambridge-paediatrician-8217-s-outrage-Pure-Gym/story-26188693-detail/story.html
 
 ---
 
@@ -85,21 +87,22 @@ There's value in making other people feel good.
 
 ![fit](imgs/fb.png)
 
-^facebook's virtual assistance have 'traditionally female' names
+^Facebook's virtual assistants having 'traditionally female' names
+qz.com/452804/ugh-another-virtual-assistant-with-a-female-name/
 
 ---
 
 My point: things like this happen all the time. You live and you learn, but you can also be proactive. 
 
-^as venmo's user base grows, we need to be on top of these things
+^As Venmo's user base grows, inclusivity is something that everyone should consider.
 
 ---
 
 #Things to consider
 
-^going to speak generally now, and then relate to Venmo later
-
-^applicable to all roles at venmo
+^These pointers are applicable to anyone building any sort of product!
+Also applicable to any role at a company -- marketing, Biz Dev, engineering, product, etc.
+This by no means is an exhaustive list.
 
 ---
 
@@ -107,8 +110,7 @@ My point: things like this happen all the time. You live and you learn, but you 
 
 ![](imgs/gender.png)
 
-^think about default pronouns and app uses
-^think about options in sign up forms
+^Things to things about: default pronouns a technology uses. Gender options in sign up forms.
 
 ---
 
@@ -116,8 +118,9 @@ My point: things like this happen all the time. You live and you learn, but you 
 
 ![](imgs/able.gif)
 
-^consider how inclusive apps may be for the disabled
-^fun fact--I was a QA tester for the game dots and had to play in colorblind mode
+^Consider how inclusive a technology is for the disabled.
+I once had to QA test the game Two Dots (which is awesome). The game requires drawing patterns between dots that are the same color. Part of my job was to test the game in colorblind mode. It was great.
+This example shows how Two Dots did good for the colorblind community while also increasing its user base. Win win.
 
 ---
 
@@ -125,10 +128,7 @@ My point: things like this happen all the time. You live and you learn, but you 
 
 ![right](http://www.clker.com/cliparts/S/g/C/T/0/B/cartoon-world-hi.png)
 
-^highly related to aforementioned considerations
-^recognize that geographic differences may prevent certain groups from even knowing about an app
-^or realizing why it may be useful
-^ this is why outreach is important
+^The effect of geographic differences is fascinating. It's highly related to other defining factors for demographics (such as race, socioeconomic status, gender, age). Recognize that geographic differences can play into a community's general relationship with technology. Community needs change according to location.
 
 ---
 
@@ -136,7 +136,7 @@ My point: things like this happen all the time. You live and you learn, but you 
 
 ![](imgs/race.gif)
 
-^pretty straightforward IMO
+^Pretty straightforward IMO. Include people of all colors.
 
 ---
 
@@ -144,9 +144,11 @@ My point: things like this happen all the time. You live and you learn, but you 
 
 ![left](http://images.clipartpanda.com/green-dollar-sign-clipart-green-dollar-sign-4.jpg)
 
-^huge problem for tech conferences
-^some technology at $100/month might end up attracting (NYC specific) more men (women 70 cents/$1), more people from the upper east side, less people of color
-^also related is the importance of non-technical team members of companies, who can structure marketing initiatives, BD relations like scholarships to help compensate for those diversity losses = bigger user base, more diverse user base, and you also look good to the community because you are doing good for the community
+^Financial barriers are a HUGE problem in tech. 
+A hypothetical NYC example: some technology that costs $100/month might end up attracting more men (since women only make 70 cents/a man's $1), more people from the Upper East Side (a traditionally wealthier area), less people of color, more people from elite schools, etc. I could go on.
+Relatedly, that's why scholarship opportunities are super important for tech conferences. 
+Also related is the importance of non-technical team members of companies, who can structure marketing initiatives and biz dev relations like scholarships and community outreach to help compensate for those diversity losses.
+The result= bigger user base, more diverse user base, and (if your product is dope) a happier, healthier community.
 
 ---
 
@@ -158,24 +160,23 @@ My point: things like this happen all the time. You live and you learn, but you 
 
 It takes time, money, strategy, and resources.
 
-^not every company has this -- depending on age, funding, company size, etc--, and that’s okay.
-
-^scalability
+^Company privilege depends on age, funding, size, etc. And that’s okay! If you're a one-woman scrappy startup, you may not have the resources to incorporate everyone/everything into your product. Scalability matters. It's important to consider what you CAN do to be as inclusive as possible given the stage your company or technology is in.
 
 ---
 
 ![fit](imgs/venmo.png)
 
-^some examples of things we can think about as we grow as a company
+^Here are some of my ideas of things we can think about as we grow as a company.
 
 ---
 
 ![fit](imgs/contrast.png)
 
-^not just thinking about functionality, but how enriching an experience is
-
-^Web Content Accessibility Guidelines (WCAG) are part of a series of web accessibility guidelines published by the Web Accessibility Initiative (WAI) of the World Wide Web Consortium (W3C), the main international standards organization for the internet.
+^When considering inclusivity, don't just think about functionality. Think about how enriching an experience is for all kinds of users.
+(Since I'm on the web team:) 
+Web Content Accessibility Guidelines (WCAG) are part of a series of web accessibility guidelines published by the Web Accessibility Initiative (WAI) of the World Wide Web Consortium (W3C), the main international standards organization for the internet.
 WCAG has three conformance levels (A-AA-AAA) because the success criteria are organised based on the impact they have on design or visual presentation of the pages.
+http://webaim.org/resources/contrastchecker/
 
 ---
 
@@ -185,26 +186,25 @@ WCAG has three conformance levels (A-AA-AAA) because the success criteria are or
 
 #People without bank accounts
 
-^thinking back to a global scale, this might be worth considering at some point
+^These people exist. How innovative can we get to target this community down the line?
 
 ---
 
 #People without smartphones
 
-^venmo's had sms capabilities, how can we continue to evolve and support user without smartphones in the future`
+^Venmo's had sms capabilities, how can we continue to evolve and support users without smartphones in the future?`
 
 ---
 
 #Geography
 
-^Battlehack Chicago
+^I went to Chicago on behalf of Venmo recently, and there were some people who did not know about how awesome it is.
 
 ---
 
 #Future features
 
-^how referring to others in the social feed will impact inclusivity (gender, blocking, support)
-^always working to ensure that Venmo is a safe place
+^Always working to ensure that Venmo is a safe place <3
 
 ---
 
