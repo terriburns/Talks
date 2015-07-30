@@ -2,7 +2,8 @@
 
 ###**using venmo to make your apps even better**
 
-^special thanks to Cassidy Williams for helping me with this! You're a star.
+^special thanks to Cassidy Williams for helping me with this! You're great.
+For those listening, if you don't understand, don't stress. It's going to be okay. I don't always understand everything. Ask questions!
 
 ---
 
@@ -10,15 +11,21 @@ using the developer api is super easy :smile: :+1:
 
 ---
 
-there are three main ways to use the api:
+there are **two** main ways to use the api:
 
 1. payment links
 
-2. REST api
+2. REST api/OAuth
 
-3. OAuth
+---
 
-^Moving away from focusing on drop ins
+(and a third, just to note)
+
+**three:** Drop ins for iOS and Android
+
+HERE ARE SOME NOTES ABT THIS
+
+^Moving away from focusing on "drop ins" aka the iOS and android SDKs (for now)
 
 ---
 
@@ -38,7 +45,19 @@ let's talk about the first:<br>
 
 let's talk about the second: <br>
 
-#**REST api**
+#**REST api/OAuth**
+
+---
+
+#**THE RULE**
+
+in order to use the REST api with venmo, you must be implementing OAuth
+
+BUT! you don't necessarily have to implement OAuth using the REST api
+
+---
+
+i know, i know. **squares** and **rectangles**
 
 ---
 
@@ -46,21 +65,21 @@ let's talk about the second: <br>
 
 ---
 
-how great is this :exclamation::collision:
+#using the REST api for OAuth
 
 ---
 
-let's talk about the third: <br>
-
-#**OAuth**
-
-(Note that OAuth actually uses the REST api. We've come full circle.)
+stuff
 
 ---
 
-![fit]()
+#using OAuth (without REST api)
 
 ---
+
+stuff
+
+----
 
 so fun! amirite! :dancer:
 
@@ -70,11 +89,11 @@ we also have a **sandbox** for you to use when testing payments so you don't go 
 
 ---
 
-(and as a side note)
+(and as another side note)
 
-we have drop ins for iOS and android
+you can make use cURL requests to make payments with the api
 
-+ you can make use cURL requests to make payments with the api
+```curl --data "access_token=INSERTHERE&user_id= INSERTHERE&note=AWESOME%20DEMO%TERRI&amount=0.01" https://api.venmo.com/v1/payments```
 
 ^not most recommended way to use the api, but mentioning just in case
 
