@@ -99,7 +99,7 @@ for more info... <br>
 
   :sunny::100::bread:
 
-  **terri@venmo.com** / **@tcburning**
+  **techevents@venmo.com** / **@venmodev**
 
   ---
 
