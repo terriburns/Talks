@@ -32,9 +32,9 @@
 
 ---
 
-#Blog
+##Blog
 
-##[The Venmo Blog](http://blog.venmo.com)
+###[Link](http://blog.venmo.com)
 
 ^squarespace in developer mode
 
@@ -56,7 +56,8 @@
 
 #Venmo University
 
-##[VenmoU](http://venmo.github.io/venmo-university/)
+
+^will provide link once it's live
 
 ^marketing team has been talking about getting some sort of portal for students/recent grads who want to work at venmo. at Battlehack Chicago, I started working on a static web page that could be used for this purpose. 
 
@@ -64,18 +65,15 @@
 
 ^There still needs to be image and copy updates which will happen in the coming weeks so that is can go live
 
-
-^(Not released yet. Will update with links/screenshots the second it is.)
-
 ---
 
-#Developer Site: The Beast
+#Developer Site
+
+^will provide link once it's live
 
 ^Redoing the entire API site
 
 ^Migrating mostly from Flask to React
-
-^Not quite finished, needs to be done on Friday. This has taken up my time the last 3 weeks.
 
 ---
 
@@ -117,6 +115,8 @@
 ###**NYT Meetup**
 ###**Manhattan.JS**
 ###**Betterment (Cassidy spoke on Imposter Syndrome!)**
+
+^All meetups I recommended going to!
 
 ---
 
@@ -169,6 +169,8 @@
 ##**Podcast**
 
 ##**Epic Music Video**
+
+^Link to music video here: https://www.youtube.com/watch?v=UEr0KuEFWog&feature=youtu.be
 
 ---
 
