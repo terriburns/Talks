@@ -57,7 +57,7 @@
 #Venmo University
 
 
-^will provide link once it's live
+^WILL PROVIDE LINK ONCE IT'S LIVE
 
 ^marketing team has been talking about getting some sort of portal for students/recent grads who want to work at venmo. at Battlehack Chicago, I started working on a static web page that could be used for this purpose. 
 
@@ -69,7 +69,7 @@
 
 #Developer Site
 
-^will provide link once it's live
+^WILL PROVIDE LINK ONCE IT'S LIVE
 
 ^Redoing the entire API site
 
@@ -169,6 +169,8 @@
 ##**Podcast**
 
 ##**Epic Music Video**
+
+^Link to podcast here: https://soundcloud.com/venmo
 
 ^Link to music video here: https://www.youtube.com/watch?v=UEr0KuEFWog&feature=youtu.be
 
