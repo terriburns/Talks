@@ -148,7 +148,11 @@
 
 ##**DevPost!**
 
-##**UN hackathon**
+##**United Nations hackathon**
+
+^Won runner up and best student app at the Dev Post hackathon! See the hack at http://yousnoozeyoulose.us
+
+^Made http://terri.party/the-periodical at the UN hackathon
 
 ---
 
