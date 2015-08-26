@@ -4,4 +4,4 @@ Presentations for some of my talks can be found here. I run these files using <a
 
 "Talk Kanye" is just a test presentation. (Or is it??)
 
-**Contact me for speaking requests! I like talking.**
+Contact me for speaking requests! I like talking.
