@@ -43,3 +43,49 @@
 ![](https://36.media.tumblr.com/tumblr_lw787hqthA1qbw5j0o1_500.jpg)
 
 ^That was probably boring so I wanted to make up for it with a cute picture of baby Drake.
+
+---
+
+#[fit]Building it :computer:
+
+Using a Python script.
+
+^Jumping into how I went about building it.
+
+---
+
+#Step one: Using a training corpus to train the generator
+
+^I used preexisting songs and POS tagging to record the words that Drake uses, and the respective parts of speech. I used NLTK to do POS tagging.
+
+^Show the source code
+
+---
+
+#Step two: Calculating transition probabilities 
+
+![left](http://www.etonline.com/news/2015/10/24187336/set_drake_hotling_bling_video-640.jpg)
+
+^This is where it gets a little bit tricky. 
+
+---
+
+#Step three: Generating the lyrics using POS
+
+^Hardcoded so that the first word is a noun, yolo
+
+^ Pick the top two most likely subsequent POS, and pick one of those at random
+
+---
+
+#Why randomly pick top two?
+
+1. First implementation caused crazy POS looping
+
+2. Second implementation allows for more variability
+
+3. The best implementation would be to generate lyrics that have transitions probabilities truly reflective of the training corpus. Maybe one of you can help me with that.
+
+---
+
+#[fit]Live Demo :dancer:
