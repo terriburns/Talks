@@ -89,3 +89,19 @@ Using a Python script.
 ---
 
 #[fit]Live Demo :dancer:
+
+^ Go through training corpus
+
+^ Go through the NLTK output for POS tagging
+
+^ Run the generator, lol
+
+---
+
+#Started From the Bottom
+
+Now we... still have some work to do
+
+^Talk about improvements
+
+
