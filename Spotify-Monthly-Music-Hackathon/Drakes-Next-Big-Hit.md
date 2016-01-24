@@ -104,4 +104,24 @@ Now we... still have some work to do
 
 ^Talk about improvements
 
+---
 
+#Play with it!
+
+Replace Drake songs in `oldsongs.txt` with the songs of your favorite artists. (The more songs, the better the output.)
+
+^Maybe one of you could hack on this yourself.
+
+---
+
+???
+
+---
+
+#[fit]The End!
+
+tweet me @tcburning
+
+email me at tcburing@gmail.com
+
+Thank you :heart:
