@@ -2,6 +2,8 @@
 
 ![original 175%](imgs/me.png)
 
+^Have github repo open to reference 
+
 ---
 
 ##github.com/terriburns/Drakes-Next-Big-Hit
