@@ -28,11 +28,11 @@ Organizing/community building
 
 ^Our weekly meetings -- deciding when we need to get stuff done, when we need a team boost
 
-^Planning our retreat
+^Planning our retreat (not logistics, but community building, figuring out which games to play, etc)
 
 ---
 
-Spearheading the execution of initiatives that other board members what so see happen
+Spearheading the execution of initiatives that other board members want so see happen
 
 ^Using discuss
 
@@ -50,4 +50,10 @@ Putting out fires :fire:
 
 ^Emotion
 
+^Frienship
 
+---
+
+Misc
+
+^Meetings, phone calls
