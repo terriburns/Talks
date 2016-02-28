@@ -8,7 +8,9 @@
 
 ^What tech@nyu needs
 
-^The future of this club 
+^The future of this club
+
+^The election process
 
 ---
 
@@ -57,3 +59,13 @@ Putting out fires :fire:
 Misc
 
 ^Meetings, phone calls
+
+---
+
+The election process
+
+^Meeting with people you don't know well/everyone
+
+^Giving a talk on what you want for the future of this club
+
+^Voting day -- an intense day, but a really great way for us to prioritize the future of this club, align our values, and get excited about the future
