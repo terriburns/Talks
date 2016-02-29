@@ -14,11 +14,15 @@
 
 ---
 
+![left](imgs/me.png)
+
 What do I even do?
 
 ---
 
-Overseeing :eyes:
+![right](imgs/bizcard.png)
+
+Overseeing :eyes: 
 
 ^Overseeing everything. Providing transparency when necessary, and opacity when necessary.
 
@@ -56,6 +60,8 @@ Putting out fires :fire:
 
 ---
 
+![right](imgs/ghc.png)
+
 Misc
 
 ^Meetings, phone calls
@@ -69,3 +75,9 @@ The election process
 ^Giving a talk on what you want for the future of this club
 
 ^Voting day -- an intense day, but a really great way for us to prioritize the future of this club, align our values, and get excited about the future
+
+---
+
+Any questions?
+
+^hmu
