@@ -1,5 +1,7 @@
 #[fit]Tech@NYU President 2015-2016
 
+![](imgs/tnyu.jpg)
+
 ^Talking about presidency
 
 ^Why it's important
@@ -20,7 +22,6 @@ What do I even do?
 
 ---
 
-![right](imgs/bizcard.png)
 
 Overseeing :eyes: 
 
@@ -30,6 +31,8 @@ Overseeing :eyes:
 
 ---
 
+![](imgs/tnyu.jpg)
+
 Organizing/community building
 
 ^Our weekly meetings -- deciding when we need to get stuff done, when we need a team boost
@@ -37,6 +40,7 @@ Organizing/community building
 ^Planning our retreat (not logistics, but community building, figuring out which games to play, etc)
 
 ---
+![](imgs/us.jpg)
 
 Spearheading the execution of initiatives that other board members want so see happen
 
@@ -68,6 +72,12 @@ Misc
 
 ---
 
+![](imgs/us_again.jpg)
+
+How it's changed me
+
+---
+
 The election process
 
 ^Meeting with people you don't know well/everyone
@@ -78,6 +88,8 @@ The election process
 
 ---
 
-Any questions?
+![](imgs/bizcard.png)
+
+???
 
 ^hmu
