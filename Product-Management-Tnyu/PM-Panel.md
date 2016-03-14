@@ -28,9 +28,11 @@ Panelist Three:
 
 ---
 
-Question Time! 
+Question Time!
 
 ^I'll kick off the questions, but the point of this panel is to facilitate a discussion. Please ask questions!
+
+^ (Now, questions happen)
 
 ---
 
