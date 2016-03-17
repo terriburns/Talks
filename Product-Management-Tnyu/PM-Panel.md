@@ -45,3 +45,9 @@ Second panelist:
 Third:
 
 Terri, Tech@NYU Prez, @tcburning, terri@techatnyu.org
+
+---
+
+nyusw.com
+
+techatnyu.org
