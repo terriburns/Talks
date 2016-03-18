@@ -1,34 +1,34 @@
-Tech@NYU Startup Week
+#Tech@NYU Startup Week
 
 ---
 
-Product Management Panel
+##Product Management Panel
 
 ---
 
-Why a PM panel?
+##Why a PM panel?
 
 ^Talk about the growing popularity of product management, the mystery behind it, and the importance of it
 
 ---
 
-Intros!
+##Intros!
 
 ---
 
-Panelist One:
+##Panelist One:
 
 ---
 
-Panelist Two:
+##Panelist Two:
 
 ---
 
-Panelist Three:
+##Panelist Three:
 
 ---
 
-Question Time!
+#Question Time!
 
 ^I'll kick off the questions, but the point of this panel is to facilitate a discussion. Please ask questions!
 
@@ -48,6 +48,6 @@ Terri, Tech@NYU Prez, @tcburning, terri@techatnyu.org
 
 ---
 
-nyusw.com
+###nyusw.com
 
-techatnyu.org
+###techatnyu.org
