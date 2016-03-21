@@ -16,15 +16,15 @@
 
 ---
 
-##Panelist One:
+##Panelist One: Adam Feldman, Twitter
 
 ---
 
-##Panelist Two:
+##Panelist Two: David Byrd, Digital Ocean
 
 ---
 
-##Panelist Three:
+##Panelist Three: Mayank Yadav, Handy
 
 ---
 
@@ -38,11 +38,11 @@
 
 The end! Contacts:
 
-First panelist:
+Adam @feldman
 
-Second panelist:
+David @thebyrd (github)
 
-Third:
+Mayank @mayankspeaks
 
 Terri, Tech@NYU Prez, @tcburning, terri@techatnyu.org
 
