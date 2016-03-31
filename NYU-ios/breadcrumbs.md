@@ -1,6 +1,6 @@
 #Breadcrumbs
 
-###iOS app by Kevin Cronley, Vicky Chen, and Terri Burns
+###iOS app by Kevin Cronl, Vicky Chen, and Terri Burns
 
 ---
 
@@ -45,18 +45,6 @@
 - Once user is no longer connected to data, user can still find predetermined points
 
 - Once user is no longer connected to data, user can still search for a new location, so long as it's in the specified location
-
----
-
-#Responsibilities
-
-Kevin:
-
-Vicky:
-
-Terri:
-
-^(Talk about this for 2-3 mins)
 
 ---
 
