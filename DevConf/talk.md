@@ -133,7 +133,7 @@ What if:
 
 ###Is an algorithm any less racist than a human?
 
-#### "But there’s an unaddressed issue here: any algorithm can – and often does – simply reproduce the biases inherent in its creator, in the data it’s using, or in society at large. For example, Google is more likely to advertise executive-level salaried positions to search engine users if it thinks the user is male, according to a Carnegie Mellon study. While Harvard researchers found that ads about arrest records were much more likely to appear alongside searches for names thought to belong to a black person versus a white person...
+#### "...any algorithm can – and often does – simply reproduce the biases inherent in its creator, in the data it’s using, or in society at large. For example, Google is more likely to advertise executive-level salaried positions to search engine users if it thinks the user is male... While Harvard researchers found that ads about arrest records were much more likely to appear alongside searches for names thought to belong to a black person versus a white person...
 
 ---
 
@@ -145,7 +145,7 @@ What if:
 
 ![left](img/icecube.gif)
 
-> You better check yo self before you wreck yo self
+> "You better check yo self before you wreck yo self"
 
 --- Ice Cube: Highly respected prophet and software engineer
 
@@ -153,21 +153,25 @@ What if:
 
 ###Be Cognizant of Implicit Bias...
 
-aka, check your privilege
+###... And how that Manifests in Code
+
+(in other words, check your privilege)
 
 ---
 
-###... And how that Manifests in Code
+The vast majority of us have privilege! For example...
 
 - Please pay $5 to play this game.
 
 - Please enter the college you attended to confirm your identity.
 
-- Please enter your direct manager's contact info to verify your work history.
+- Please enter your manager's contact info to verify your work history.
 
 ---
 
 ###Be Cognizant of Programming Bias
+
+#### Emacs vs Vi/Vim
 
 #### AngularJS vs React
 
@@ -222,6 +226,10 @@ and so on
 ---
 
 #Thank you.
+
+@tcburning (Twitter)
+
+tcburning@gmail.com
 
 ---
 
