@@ -16,6 +16,8 @@ by __@tcburning__
 
 ---
 
+---
+
 #THROWBACK: CS 101
 
 ---
@@ -32,8 +34,14 @@ else
 ---
 
 ```python
-Guess a number 1-10. If you are right, you win a million bucks: 20
+Guess a number 1-10. If you are right, you win a million bucks: 
 ```
+
+```python
+20
+```
+
+ERROR!
 
 ---
 
@@ -49,8 +57,14 @@ else
 ---
 
 ```python
-Guess a number 1-10. If you are right, you win a million bucks: two
+Guess a number 1-10. If you are right, you win a million bucks:
 ```
+
+```python
+two
+```
+
+ERROR!
 
 ---
 
@@ -62,6 +76,13 @@ while True:
   except NameError:
     print("Oops! Make sure you enter a number, not a word.")
 ```
+
+---
+
+???
+
+ERROR!
+
 ---
 
 __What if:__
@@ -75,6 +96,8 @@ __What if:__
 ---
 
 ![](img/stress.gif)
+
+---
 
 ---
 
@@ -114,7 +137,15 @@ __What if:__
 
 ---
 
+PHEW!
+
+---
+
 ![](img/sleepybaby.gif)
+
+---
+
+---
 
 ###Is an algorithm any less racist than a human?
 
@@ -138,7 +169,7 @@ __- Ice Cube: Highly respected prophet and software engineer__
 
 Be cognizant of implicit bias...
 
-... and how that Manifests in Code
+... and how that manifests in code
 
 (in other words, check your privilege)
 
