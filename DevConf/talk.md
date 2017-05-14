@@ -1,18 +1,18 @@
 build-lists: true
 
+![fit](img/codemotion.png)
+
+---
+
 # [fit] Bad People, 
 
 # [fit] Bad Computers
 
-by _@tcburning_
+by __@tcburning__
 
 ---
 
 ![](img/me.jpg)
-
----
-
-![](img/jim.gif)
 
 ---
 
@@ -22,7 +22,7 @@ by _@tcburning_
 
 ```python
 number = random.randint(1, 10)
-guess = raw_input('Guess a number 1-10. If you are right, you win a million bucks: ')
+guess = int(input('Guess a number 1-10. If you are right, you win a million bucks: '))
 if (guess == number):
   print("Omg, you win a million bucks! Ask someone in the audience for it.")
 else
@@ -38,7 +38,7 @@ Guess a number 1-10. If you are right, you win a million bucks: 20
 ---
 
 ```python
-if (guess > 10):
+if (guess > 10 or guess < 1):
   print("Make sure your guess is between 1 and 10, inclusive")
 elif (guess == number):
   print("Omg, you win a million bucks! Ask someone in the audience for it.")
@@ -55,37 +55,16 @@ Guess a number 1-10. If you are right, you win a million bucks: two
 ---
 
 ```python
-#function thats converts strings to integers
-def convert(wordString):
-  if(wordString == 'one'):
-    return 1
-  elif(wordString == 'two'):
-    return 2
-  [...and so on...]
-
-#convert if the user happens to enter a string
-if(isinstance(guess, str)):
-  guess = convert(guess)
+while True:
+  try:
+    guess = int(input('Guess a number 1-10. If you\'re right, you win a million bucks: '))
+    break
+  except NameError:
+    print("Oops! Make sure you enter a number, not a word.")
 ```
-
 ---
 
-```python
-Guess a number 1-10. If you are right, you win a million bucks: 
-
-- No comprendo
-
-- Je ne comprends pas
-
-- Ek verstaan nie
-
-[...and so on...]
-
-```
-
----
-
-What if:
+__What if:__
 
 - Someone can't see the screen?
 
@@ -95,7 +74,7 @@ What if:
 
 ---
 
-![](img/scary.gif)
+![](img/stress.gif)
 
 ---
 
@@ -117,8 +96,16 @@ What if:
 
 ---
 
-![inline](img/women1.png)![inline fill](img/women2.png)
-![inline](img/women3.png)
+![fit](img/youtube.png)
+
+---
+
+![inline](img/youtube1.png)![inline fill](img/youtube2.png)
+![inline](img/youtube3.png)
+
+---
+
+![inline](img/vrgood1.png)
 
 ---
 
@@ -129,17 +116,15 @@ What if:
 
 ![](img/sleepybaby.gif)
 
----
-
 ###Is an algorithm any less racist than a human?
 
-#### "...any algorithm can – and often does – simply reproduce the biases inherent in its creator, in the data it’s using, or in society at large. For example, Google is more likely to advertise executive-level salaried positions to search engine users if it thinks the user is male... While Harvard researchers found that ads about arrest records were much more likely to appear alongside searches for names thought to belong to a black person versus a white person...
+"...any algorithm can – and often does – simply reproduce the biases inherent in its creator, in the data it’s using, or in society at large. For example, Google is more likely to advertise executive-level salaried positions to search engine users if it thinks the user is male... While Harvard researchers found that ads about arrest records were much more likely to appear alongside searches for names thought to belong to a black person versus a white person...
 
 ---
 
-### "These aren’t necessarily malicious situations – it’s not that Google is staffed by sexists, for example, but rather that the algorithm is just mirroring the existing gender pay gap. But in so doing, the algorithm reinforces that gap, and as long as we continue to believe an algorithm is an “unbiased” machine, we risk reinforcing the status quo in harmful ways. 
+"These aren’t necessarily malicious situations – it’s not that Google is staffed by sexists, for example, but rather that the algorithm is just mirroring the existing gender pay gap. But in so doing, the algorithm reinforces that gap, and as long as we continue to believe an algorithm is an “unbiased” machine, we risk reinforcing the status quo in harmful ways." 
 
---- The Guardian
+__- The Guardian__
 
 ---
 
@@ -147,13 +132,13 @@ What if:
 
 > "You better check yo self before you wreck yo self"
 
---- Ice Cube: Highly respected prophet and software engineer
+__- Ice Cube: Highly respected prophet and software engineer__
 
 ---
 
-###Be Cognizant of Implicit Bias...
+Be cognizant of implicit bias...
 
-###... And how that Manifests in Code
+... and how that Manifests in Code
 
 (in other words, check your privilege)
 
@@ -209,7 +194,7 @@ and so on
 
 ---
 
-![](img/scary.gif)
+![](img/stress.gif)
 
 ---
 
@@ -221,7 +206,13 @@ and so on
 
 > “You can’t ever reach perfection, but you can believe in an asymptote toward which you are ceaselessly striving.” 
 
----Paul Kalanithi, When Breath Becomes Air
+__- Paul Kalanithi, When Breath Becomes Air__
+
+---
+
+#Thank you.
+
+Questions?
 
 ---
 
