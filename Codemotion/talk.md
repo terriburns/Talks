@@ -1,6 +1,6 @@
 build-lists: true
 
-![fit](img/codemotion.png)
+![fit](img/cover.png)
 
 ---
 
@@ -13,6 +13,8 @@ by __@tcburning__
 ---
 
 ![](img/me.jpg)
+
+^ TALK SLOW
 
 ---
 
@@ -82,6 +84,9 @@ while True:
 ???
 
 ERROR!
+
+
+^ TALK SLOW
 
 ---
 
@@ -204,20 +209,6 @@ and so on
 ###Diverse teams, companies, thoughts, backgrounds, music tastes, etc etc
 
 ![](img/emoji.jpg)
-
----
-
-###The Future of Computing - Building at Unprecedented Scale:
-
-- Machine learning
-
-- Big Data
-
-- Web Services
-
-- Security Infrastructure
-
-- ...and more!
 
 ---
 
