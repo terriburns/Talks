@@ -104,17 +104,6 @@ __What if:__
 
 ---
 
----
-
-![](img/taygood.png)
-
----
-
-![inline fill](img/taybad1.png)![inline fill](img/taybad2.png)
-![inline](img/taybad3.png)
-
----
-
 ![fit](img/googlegood.png)
 
 ---
@@ -212,7 +201,7 @@ and so on
 
 ---
 
-###For the first time in history we are learning what it means to design and engineer products for everyone the world.
+###For the first time in history we are learning what it means to design and engineer products for everyone in the world.
 
 ---
 
