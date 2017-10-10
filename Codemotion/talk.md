@@ -1,9 +1,5 @@
 build-lists: true
 
-![fit](img/cover.png)
-
----
-
 # [fit] Bad People, 
 
 # [fit] Bad Computers
@@ -14,13 +10,21 @@ by __@tcburning__
 
 ![](img/me.jpg)
 
-^ TALK SLOW
+^ This is me! A little about me:
+^ My name is Terri Burns
+^ About a year and a half ago, I graduated from NYU with a degree in computer science
+^ I currently work as an APM at Twitter
+^ At Twitter, I'm a product manager, which means I get to work with really smart engineers and designers to come up with + build features for the product
+^ I work in the live video org
+^ I basically help make decisions all day, every day
+^ So today, I'm going to spend some time talking to 
 
----
 
 ---
 
 #THROWBACK: CS 101
+
+~ write a guessing game ~
 
 ---
 
@@ -98,9 +102,22 @@ __What if:__
 
 - Someone doesn't know how to interact with a computer?
 
+- Someone isn't familiar with (or interested in!) counting games?
+
 ---
 
 ![](img/stress.gif)
+
+---
+
+---
+
+![](img/taygood.png)
+
+---
+
+![inline fill](img/taybad1.png)![inline fill](img/taybad2.png)
+![inline](img/taybad3.png)
 
 ---
 
@@ -135,9 +152,15 @@ PHEW!
 
 ---
 
-![](img/sleepybaby.gif)
+![fill](img/pup2.gif)![inline](img/pup.gif)
+![inline](img/pup1.gif)
 
 ---
+
+^We've talked about a couple of things:
+^1. that you've been taught to think inclusively since the beginning
+^2. some of the things you might want to consider in terms of inclusivity
+^3. what goes wrong when you dont
 
 ---
 
@@ -219,11 +242,9 @@ and so on
 
 __- Paul Kalanithi, When Breath Becomes Air__
 
----
-
-#Thank you.
-
-Questions?
+^ There will always be bad people
+^ There will always be biases that seep into the technologies we create and the products we build
+^ But I hope that you all ceaselessly strive towards this asymptote of good people, of good computers, and ultimately, of a better world
 
 ---
 
