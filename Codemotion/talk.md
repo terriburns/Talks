@@ -29,7 +29,7 @@ by __@tcburning__
 
 - Work as a PM at Twitter
 
-- General badass
+- Rihanna enthusiast
 
 ^ 1.5 years ago i graduated with a degree in computer science
 
@@ -210,6 +210,12 @@ __- Ice Cube: Highly respected prophet and software engineer__
 - Please enter the college you attended to confirm your identity.
 
 - Please enter your manager's contact info to verify your work history.
+
+^ Financial security
+
+^ Highly educated 
+
+^Have a support system professionally and personally
 
 ---
 
