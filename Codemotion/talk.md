@@ -1,6 +1,6 @@
 build-lists: true
 
-# [fit] Bad People, 
+# [fit] Bad People,
 
 # [fit] Bad Computers
 
@@ -8,17 +8,31 @@ by __@tcburning__
 
 ---
 
-![](img/me.jpg)
+[intro story]
 
-^ This is me! A little about me:
-^ My name is Terri Burns
-^ About a year and a half ago, I graduated from NYU with a degree in computer science
-^ I currently work as an APM at Twitter
-^ At Twitter, I'm a product manager, which means I get to work with really smart engineers and designers to come up with + build features for the product
-^ I work in the live video org
-^ I basically help make decisions all day, every day
-^ So today, I'm going to spend some time talking to 
+---
 
+![left fit](img/babyme.jpg)
+
+##@tcburning
+
+- From Long Beach, CA
+
+- Studied CS at NYU
+
+- Work as a PM at Twitter
+
+- General badass
+
+^ 1.5 years ago i graduated with a degree in computer science
+
+^ started coding the summer before my sophomore year
+
+^ decided upon graduation that i wanted to have a bigger stake in the decisions around the products we build
+
+^ I now work as a PM at Twitter
+
+^ My job is to take a step back and look at the big picture. That's what we're gonna do right now
 
 ---
 
@@ -47,7 +61,7 @@ Guess a number 1-10. If you are right, you win a million bucks:
 20
 ```
 
-ERROR!
+# ERROR!
 
 ---
 
@@ -70,7 +84,7 @@ Guess a number 1-10. If you are right, you win a million bucks:
 two
 ```
 
-ERROR!
+# ERROR!
 
 ---
 
@@ -85,17 +99,17 @@ while True:
 
 ---
 
-???
+# [fit] ???
 
-ERROR!
+# [fit] ERROR!
 
 
 ^ TALK SLOW
 
 ---
 
-__What if:__
-
+#What if:
+ 
 - Someone can't see the screen?
 
 - Someone can only count to five?
@@ -148,7 +162,9 @@ __What if:__
 
 ---
 
-PHEW!
+# [fit] PHEW!
+
+^ next slide will slightly delay
 
 ---
 
@@ -192,7 +208,7 @@ Be cognizant of implicit bias...
 
 ---
 
-The vast majority of us have privilege! For example...
+#The vast majority of us have privilege! For example...
 
 - Please pay $5 to play this game.
 
@@ -202,23 +218,23 @@ The vast majority of us have privilege! For example...
 
 ---
 
-###Be Cognizant of Programming Bias
+#Be Cognizant of Programming Bias...
 
-#### Emacs vs Vi/Vim
+## Emacs vs Vi/Vim
 
-#### AngularJS vs React
+## AngularJS vs React
 
-#### Cassandra vs MongoDB
+## Cassandra vs MongoDB
 
-#### Server-side vs client-side
+## Server-side vs client-side
 
-#### Java vs C++
+## Java vs C++
 
 and so on
 
 ---
 
-###Diverse teams, companies, thoughts, backgrounds, music tastes, etc etc
+#Diverse teams, companies, thoughts, backgrounds, music tastes, etc 
 
 ![](img/emoji.jpg)
 
@@ -230,11 +246,13 @@ and so on
 
 ![](img/stress.gif)
 
+^ There are a lot of growing pains
+
 ---
 
-- Bad People
+- # [fit] Bad People
 
-- Bad Computers
+- # [fit] Bad Computers
 
 ---
 
