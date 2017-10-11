@@ -8,7 +8,14 @@ by __@tcburning__
 
 ---
 
-[intro story]
+![fit](img/googlegood.png)
+
+---
+
+![left fit](img/jacky.png)
+![right fit](img/googlebad3.png)
+
+---
 
 ---
 
@@ -38,7 +45,7 @@ by __@tcburning__
 
 #THROWBACK: CS 101
 
-~ write a guessing game ~
+## ~ write a guessing game ~
 
 ---
 
@@ -116,8 +123,6 @@ while True:
 
 - Someone doesn't know how to interact with a computer?
 
-- Someone isn't familiar with (or interested in!) counting games?
-
 ---
 
 ![](img/stress.gif)
@@ -132,15 +137,6 @@ while True:
 
 ![inline fill](img/taybad1.png)![inline fill](img/taybad2.png)
 ![inline](img/taybad3.png)
-
----
-
-![fit](img/googlegood.png)
-
----
-
-![inline fill](img/googlebad1.png)![inline](img/googlebad2.png)
-![inline](img/googlebad3.png)
 
 ---
 
@@ -168,8 +164,7 @@ while True:
 
 ---
 
-![fill](img/pup2.gif)![inline](img/pup.gif)
-![inline](img/pup1.gif)
+![fit](img/pup2.gif)
 
 ---
 
@@ -200,9 +195,9 @@ __- Ice Cube: Highly respected prophet and software engineer__
 
 ---
 
-Be cognizant of implicit bias...
+#Be cognizant of implicit bias...
 
-... and how that manifests in code
+#... and how that manifests in code
 
 (in other words, check your privilege)
 
